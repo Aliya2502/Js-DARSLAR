@@ -7,7 +7,7 @@
 
 '1-png'
 
-1// for (let i=0; i<5; i++)  console.log(i); natija// 2 tasiham 1 2 3 4
+1// for (let i=0; i<5; i++)  console.log(i); natija// 2 tasiham  0 1 2 3 4
 
 2// for (let i=0; i<5; ++i)  console.log(i);
 
@@ -24,7 +24,7 @@
 
 
 '3-png'
-
+                                
 let n = 20;
 
 for (let i = 2; i <= n; i++) {
@@ -40,6 +40,16 @@ for (let i = 2; i <= n; i++) {
   if (tub) {
     console.log(i);
   }
-}
+
+natija//
+2
+3
+5
+7
+11
+13
+17
+19
+  
 
 
